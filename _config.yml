@@ -85,9 +85,9 @@ author:
   bio              : "Phd student at University of Edinburgh"
   location         : "Edinburgh"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gc_RiN8AAAAJ&view_op=list_works"
-  email            :
+  email            : "jw.zheng AT ed.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Jiawei Zheng"
+  twitter          : "JiaweiZheng_"
   vine             :
   weibo            :
   xing             :
