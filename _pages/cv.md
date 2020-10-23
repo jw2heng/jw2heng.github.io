@@ -11,49 +11,77 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Information and Engineering, Liaoning University of Technology, 09/2015 - 07/2017
+* M.S. in Computer Technology, Xidian University, 09/2017 - 07/2020
+* Ph.D in Computer Science, University of Edinburgh, 09/2020 -Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 09/2017 - 07/2020: Research Assistant
+  * Shanaxi Key Laboratory of Network and System Security
+  * Duties included: IoT, Cloud Computing, Blockchain
+  * Supervisor: Yulong Shen
+* 08/2018 - 07/2020: Developer
+  * Xi'an Xingyunchuanglian Internet & Technology Co., Ltd.
+  * Duties included: MicrothingChain: IoT Data sharing Platform
+  * Supervisor: Yulong Shen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 09/2014 - 07/2017: Intern
+  + Network Information Center, Liaoning University of Technology
+  + Duties included: Maintaining Information Service, Computing help.
+* 09/2015 - 06/2017: Initiator
+  + Enactus China of Liaoning University of Technology
+  + Duties included: Participating in technology competitions and organizing events
+Research Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Key Research & Development Program of China
+
+  **Title**: *Intelligent service transaction operation mechanism and performance optimization technology*
+
+  **Role**: Student Principal
+
+  + Solving service-oriented high-precision publishing and collaboration problems
+  + Researching optimized model for improving the performance of Blockchain
+  + Designing and developing service trading mechanism and system based on Blockchain
+
+* Key Research & Development Program of Shaanxi Province
+  
+  **Title**: Trusted and controlled sharing technology and system of multi-domain IoT based on blockchain
+  
+  **Role**: Applicant & Student Principal
+  
+  * Solving the problems of information isolation resulting from vertical IoT applications
+  * Establishing cross-domain authentication and access control mechanism
+  * Designing and developing data sharing and exchanging system
+  
+* Shaanxi Science & Technology Coordination & Innovation Project
+
+  **Title**: Comprehensive IoT access and service delivery platform and demonstration application
+
+  **Role**: Participant
+
+  + Realizing adaptive access for heterogeneous IoT devices
+  + Designing distribute computing and data storage architecture
+  + Developing demonstration IoT application in industrial field
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
