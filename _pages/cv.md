@@ -29,11 +29,12 @@ Work experience
 * 09/2014 - 07/2017: Intern
   + Network Information Center, Liaoning University of Technology
   + Duties included: Maintaining Information Service, Computing help.
-* 09/2015 - 06/2017: Initiator
+* 09/2015 - 06/2017: Co-founder
   + Enactus China of Liaoning University of Technology
   + Duties included: Participating in technology competitions and organizing events
-Research Projects
-======
+
+  Research Projects
+    ======
 * National Key Research & Development Program of China
 
   **Title**: *Intelligent service transaction operation mechanism and performance optimization technology*
