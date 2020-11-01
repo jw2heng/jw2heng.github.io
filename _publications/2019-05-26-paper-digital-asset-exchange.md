@@ -1,5 +1,5 @@
 ---
-title: "Blockchain-based secure digital asset exchange scheme with QoS-aware incentive mechanism"
+title: "Blockchain based secure digital asset exchange scheme with QoS-aware incentive mechanism"
 collection: publications
 permalink: /publication/2019-05-26-paper-digital-asset-exchange
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
