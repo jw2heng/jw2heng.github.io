@@ -5,7 +5,7 @@ permalink: /publication/2020-07-01-cross-domain-data-sharing
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-07-01
 venue: 'Journal 1'
-paperurl: 'https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10162364&AN=144349507&h=mbwAJzw5mGlmpcEqy4P2EM4Hl5CJ4Dwx3zNXt67%2f8iuHOODkV4kEhKUwmpCM%2bKIJJGDmiVsWA8bwQNDTx4OU5Q%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d10162364%26AN%3d144349507'
+paperurl: ''
 citation: 'Zheng, J., Dong, X., Shen, Y. and Tong, W., 2020. Decentralized and Secure Cross-Domain Data Sharing Scheme Based on Blockchain for Application-Centric IoT. Journal of Information Science & Engineering, 36(4).'
 ---
 **Abstract:** 
