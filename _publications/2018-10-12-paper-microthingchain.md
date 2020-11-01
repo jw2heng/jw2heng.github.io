@@ -16,5 +16,5 @@ With the continuous development of the Internet of Things (IoT), the surge in da
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8648780)
 
-Recommended citation: J. Zheng, X. Dong, T. Zhang, J. Chen, W. Tong and X. Yang, "MicrothingsChain: Edge Computing and Decentralized IoT Architecture Based on Blockchain for Cross-Domain Data Shareing," *2018 International Conference on Networking and Network Applications (NaNA)*, Xi'an, China, 2018, pp. 350-355, doi: 10.1109/NANA.2018.8648780..
+Recommended citation: J. Zheng, X. Dong, T. Zhang, J. Chen, W. Tong and X. Yang, "MicrothingsChain: Edge Computing and Decentralized IoT Architecture Based on Blockchain for Cross-Domain Data Shareing," *2018 International Conference on Networking and Network Applications (NaNA)*, Xi'an, China, 2018, pp. 350-355, doi: 10.1109/NANA.2018.8648780.
 
