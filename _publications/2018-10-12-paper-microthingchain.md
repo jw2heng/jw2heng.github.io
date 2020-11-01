@@ -1,7 +1,7 @@
 ---
 title: "MicrothingsChain: Edge Computing and  Decentralized IoT Architecture Based on Blockchain for Cross-domain Data  Sharing"
 collection: publications
-permalink: /publication/2018-10-12-paper-microthingschain
+permalink: /publication/2018-10-12-paper-microthingchain
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-10-12
 venue: 'Journal 1'
