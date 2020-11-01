@@ -1,7 +1,7 @@
 ---
 title: "Trust-PBFT: A PeerTrust-Based Practical Byzantine Consensus Algorithm"
 collection: publications
-permalink: /publication/2019-10-10-paper-Trust-PBFT
+permalink: /publication/2019-10-10-paper-trust-pbft
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-10-10
 venue: 'Journal 1'
